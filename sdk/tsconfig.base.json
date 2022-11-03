@@ -1,0 +1,38 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "importHelpers": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "allowJs": false,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "declaration": true,
+    "typeRoots": [
+      "node_modules/@types",
+    ],
+    "lib": [
+      "ES5",
+      "DOM",
+      "ES2015.Promise",
+      "ES2015.Symbol",
+      "ES2015.Iterable",
+      "ES2015.Collection",
+      "ES2015.Symbol.WellKnown",
+      "ES2015.Core",
+      "ES2017.Object",
+      "ES2017.String",
+    ],
+  },
+  "include": [
+    "src",
+  ],
+  "exclude": [
+    "node_modules",
+    "**/__tests__/*",
+  ],
+}

@@ -1,0 +1,484 @@
+{
+    "uid": 1,
+    "name": "Squats",
+    "videoUrl": "/video_repository/squats.mp4",
+    "imageUrl": "/image_repo/squats.jpg",
+    "toleranceLevel": "Low",
+    "categoryUid": 3,
+    "categoryName": "Knee",
+    "introMessage": "",
+    "introAudio": "",
+    "stageSequence": "0,1,2,3,2,1,0",
+    "requiredJoints": [
+        23,
+        24,
+        25,
+        26
+    ],
+    "stages": [
+        {
+            "uid": 1,
+            "index": 0,
+            "type": 1,
+            "joints": [
+                {
+                    "uid": 1,
+                    "type": 25,
+                    "name": "",
+                    "angle": "125.00",
+                    "isMoving": true,
+                    "tolerance": "30.00",
+                    "stage": 1
+                },
+                {
+                    "uid": 2,
+                    "type": 26,
+                    "name": "",
+                    "angle": "124.00",
+                    "isMoving": true,
+                    "tolerance": "30.00",
+                    "stage": 1
+                },
+                {
+                    "uid": 3,
+                    "type": 23,
+                    "name": "",
+                    "angle": "100.00",
+                    "isMoving": true,
+                    "tolerance": "30.00",
+                    "stage": 1
+                },
+                {
+                    "uid": 4,
+                    "type": 24,
+                    "name": "",
+                    "angle": "118.00",
+                    "isMoving": true,
+                    "tolerance": "30.00",
+                    "stage": 1
+                },
+                {
+                    "uid": 5,
+                    "type": 27,
+                    "name": "",
+                    "angle": "92.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 1
+                },
+                {
+                    "uid": 6,
+                    "type": 28,
+                    "name": "",
+                    "angle": "98.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 1
+                },
+                {
+                    "uid": 7,
+                    "type": 11,
+                    "name": "",
+                    "angle": "105.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 1
+                },
+                {
+                    "uid": 8,
+                    "type": 12,
+                    "name": "",
+                    "angle": "96.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 1
+                },
+                {
+                    "uid": 9,
+                    "type": 13,
+                    "name": "",
+                    "angle": "46.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 1
+                },
+                {
+                    "uid": 10,
+                    "type": 14,
+                    "name": "",
+                    "angle": "106.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 1
+                },
+                {
+                    "uid": 11,
+                    "type": 15,
+                    "name": "",
+                    "angle": "174.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 1
+                },
+                {
+                    "uid": 12,
+                    "type": 16,
+                    "name": "",
+                    "angle": "150.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 1
+                }
+            ],
+            "exerciseUid": 1
+        },
+        {
+            "uid": 2,
+            "index": 1,
+            "type": 1,
+            "joints": [
+                {
+                    "uid": 13,
+                    "type": 25,
+                    "name": "",
+                    "angle": "176.00",
+                    "isMoving": true,
+                    "tolerance": "30.00",
+                    "stage": 2
+                },
+                {
+                    "uid": 14,
+                    "type": 26,
+                    "name": "",
+                    "angle": "166.00",
+                    "isMoving": true,
+                    "tolerance": "30.00",
+                    "stage": 2
+                },
+                {
+                    "uid": 15,
+                    "type": 23,
+                    "name": "",
+                    "angle": "166.00",
+                    "isMoving": true,
+                    "tolerance": "30.00",
+                    "stage": 2
+                },
+                {
+                    "uid": 16,
+                    "type": 24,
+                    "name": "",
+                    "angle": "158.00",
+                    "isMoving": true,
+                    "tolerance": "30.00",
+                    "stage": 2
+                },
+                {
+                    "uid": 17,
+                    "type": 27,
+                    "name": "",
+                    "angle": "100.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 2
+                },
+                {
+                    "uid": 18,
+                    "type": 28,
+                    "name": "",
+                    "angle": "103.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 2
+                },
+                {
+                    "uid": 19,
+                    "type": 11,
+                    "name": "",
+                    "angle": "51.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 2
+                },
+                {
+                    "uid": 20,
+                    "type": 12,
+                    "name": "",
+                    "angle": "46.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 2
+                },
+                {
+                    "uid": 21,
+                    "type": 13,
+                    "name": "",
+                    "angle": "32.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 2
+                },
+                {
+                    "uid": 22,
+                    "type": 14,
+                    "name": "",
+                    "angle": "115.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 2
+                },
+                {
+                    "uid": 23,
+                    "type": 15,
+                    "name": "",
+                    "angle": "173.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 2
+                },
+                {
+                    "uid": 24,
+                    "type": 16,
+                    "name": "",
+                    "angle": "141.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 2
+                }
+            ],
+            "exerciseUid": 1
+        },
+        {
+            "uid": 3,
+            "index": 2,
+            "type": 1,
+            "joints": [
+                {
+                    "uid": 25,
+                    "type": 25,
+                    "name": "",
+                    "angle": "54.00",
+                    "isMoving": true,
+                    "tolerance": "30.00",
+                    "stage": 3
+                },
+                {
+                    "uid": 26,
+                    "type": 26,
+                    "name": "",
+                    "angle": "66.00",
+                    "isMoving": true,
+                    "tolerance": "30.00",
+                    "stage": 3
+                },
+                {
+                    "uid": 27,
+                    "type": 23,
+                    "name": "",
+                    "angle": "39.00",
+                    "isMoving": true,
+                    "tolerance": "30.00",
+                    "stage": 3
+                },
+                {
+                    "uid": 28,
+                    "type": 24,
+                    "name": "",
+                    "angle": "46.00",
+                    "isMoving": true,
+                    "tolerance": "30.00",
+                    "stage": 3
+                },
+                {
+                    "uid": 29,
+                    "type": 27,
+                    "name": "",
+                    "angle": "65.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 3
+                },
+                {
+                    "uid": 30,
+                    "type": 28,
+                    "name": "",
+                    "angle": "93.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 3
+                },
+                {
+                    "uid": 31,
+                    "type": 11,
+                    "name": "",
+                    "angle": "110.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 3
+                },
+                {
+                    "uid": 32,
+                    "type": 12,
+                    "name": "",
+                    "angle": "112.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 3
+                },
+                {
+                    "uid": 33,
+                    "type": 13,
+                    "name": "",
+                    "angle": "61.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 3
+                },
+                {
+                    "uid": 34,
+                    "type": 14,
+                    "name": "",
+                    "angle": "104.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 3
+                },
+                {
+                    "uid": 35,
+                    "type": 15,
+                    "name": "",
+                    "angle": "173.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 3
+                },
+                {
+                    "uid": 36,
+                    "type": 16,
+                    "name": "",
+                    "angle": "146.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 3
+                }
+            ],
+            "exerciseUid": 1
+        },
+        {
+            "uid": 4,
+            "index": 3,
+            "type": 1,
+            "joints": [
+                {
+                    "uid": 37,
+                    "type": 25,
+                    "name": "",
+                    "angle": "87.00",
+                    "isMoving": true,
+                    "tolerance": "30.00",
+                    "stage": 4
+                },
+                {
+                    "uid": 38,
+                    "type": 26,
+                    "name": "",
+                    "angle": "100.00",
+                    "isMoving": true,
+                    "tolerance": "30.00",
+                    "stage": 4
+                },
+                {
+                    "uid": 39,
+                    "type": 23,
+                    "name": "",
+                    "angle": "65.00",
+                    "isMoving": true,
+                    "tolerance": "30.00",
+                    "stage": 4
+                },
+                {
+                    "uid": 40,
+                    "type": 24,
+                    "name": "",
+                    "angle": "82.00",
+                    "isMoving": true,
+                    "tolerance": "30.00",
+                    "stage": 4
+                },
+                {
+                    "uid": 41,
+                    "type": 27,
+                    "name": "",
+                    "angle": "79.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 4
+                },
+                {
+                    "uid": 42,
+                    "type": 28,
+                    "name": "",
+                    "angle": "95.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 4
+                },
+                {
+                    "uid": 43,
+                    "type": 11,
+                    "name": "",
+                    "angle": "111.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 4
+                },
+                {
+                    "uid": 44,
+                    "type": 12,
+                    "name": "",
+                    "angle": "113.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 4
+                },
+                {
+                    "uid": 45,
+                    "type": 13,
+                    "name": "",
+                    "angle": "66.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 4
+                },
+                {
+                    "uid": 46,
+                    "type": 14,
+                    "name": "",
+                    "angle": "100.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 4
+                },
+                {
+                    "uid": 47,
+                    "type": 15,
+                    "name": "",
+                    "angle": "177.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 4
+                },
+                {
+                    "uid": 48,
+                    "type": 16,
+                    "name": "",
+                    "angle": "154.00",
+                    "isMoving": false,
+                    "tolerance": "30.00",
+                    "stage": 4
+                }
+            ],
+            "exerciseUid": 1
+        }
+    ]
+}
