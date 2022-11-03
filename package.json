@@ -31,8 +31,8 @@
     "workbox-streams": "^6.5.4"
   },
   "scripts": {
-    "start": "serve -s build",
-    "build": "cd sdk && yarn && yarn build && cd .. && CI='' react-scripts build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
