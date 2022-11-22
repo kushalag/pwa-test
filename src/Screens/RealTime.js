@@ -36,8 +36,8 @@ export const RealTime = () => {
       exercise,
       canvasElement,
       true,
-      (text, priority) => console.log(text, priority),
-      // SpeechEngine.addToSpeechQueue(new SpeechItem(text, priority)),
+      (text, priority) =>
+        SpeechEngine.addToSpeechQueue(new SpeechItem(text, priority)),
       (stageNumber) => setStage(stageNumber),
       null,
       () => {
