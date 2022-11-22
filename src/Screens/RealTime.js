@@ -86,6 +86,7 @@ export const RealTime = () => {
           style={{ margin: "0px", padding: "0px", height: "100%" }}
         >
           <canvas
+            playsinline={true}
             ref={canvasRef}
             style={{
               width: "100%",
