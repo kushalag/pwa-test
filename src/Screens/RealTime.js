@@ -97,6 +97,7 @@ export const RealTime = () => {
         <div className="col-6 pl-2" style={{ margin: "0px" }}>
           <ReactPlayer
             loop={true}
+            playsinline={true}
             muted={true}
             playing={true}
             url={`https://drl-healify-django.squareboat.info${stageVideos[0]}`}
