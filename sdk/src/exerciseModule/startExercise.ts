@@ -85,6 +85,7 @@ export default async function startExercise(
 
     // Set the video stream
     videoElement.srcObject = stream;
+    videoElement.playsInline = true;
 
     // Create a camera
     const camera = new Camera(videoElement, {
